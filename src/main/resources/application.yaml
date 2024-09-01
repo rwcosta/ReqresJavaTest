@@ -1,0 +1,11 @@
+info:
+  app:
+    name: Reqres Java Test
+    description: Reqres API tests using Java Cucumber
+
+parallel:
+  threadCount: 10
+
+rest:
+  baseURL: https://reqres.in
+  basePath: /api
